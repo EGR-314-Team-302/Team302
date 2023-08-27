@@ -1,14 +1,14 @@
 ---
-title: Project Mobile Weather Station
+Title: Project Mobile Weather Station
 ---
 
 # Home
 
 ## Introduction
 
-**Bold Text**
+
 EGR 314 Fall 2023
-**_Bold and Italic Text_**
+
 
 ## Team Members
 * Kalin Comins
@@ -19,5 +19,5 @@ EGR 314 Fall 2023
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+
 
