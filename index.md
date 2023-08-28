@@ -1,14 +1,11 @@
 ---
-title: Home
+EGR314 Fall 2023 : Team302 Rain Gauge
 ---
-
+Members: Kalin Comins, Marla Hawthorne, Elton Salt, Enyinnaya Onyenso
 # Home
 
-## Introduction
+## User Needs
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
 
 ## Research Question
 
